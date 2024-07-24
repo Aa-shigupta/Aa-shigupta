@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashi Gupta</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer and Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
