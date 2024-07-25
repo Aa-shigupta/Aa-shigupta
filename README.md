@@ -37,7 +37,7 @@ Previously experienced at Accenture Data Analytics and Visualization Job Simulat
 
 ✨Hobbies: Chess and art (painting). <br/>
 
-💬 Ask me about: **Data engineering, SQL, Databases , Frontend Development**
+💬 Ask me about: **Data engineering, Data Analyst, PowerBI, ETL, SQL, Databases , Frontend Development**
 <p>Feel free to connect if you're passionate about data engineering or frontend web development, or if you have exciting projects to collaborate on!</p>
 
   
